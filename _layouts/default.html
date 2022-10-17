@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+ {% include head.html %}
+ {% seo %}
+<body>
+
+  <!-- navbar -->
+  <nav id="mainNav" class="navbar navbar-expand-lg mx-auto navbar-sticky navbar-dark bg-dark">
+    <div class="container">
+     
+      <!-- secondary -->
+      <ul class="navbar-nav navbar-nav-secondary  order-lg-3">
+        <li class="nav-item d-lg-none">
+          <a class="nav-link nav-icon" href="" role="button" data-bs-toggle="collapse" data-bs-target="#navbar"
+            aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="bi bi-list"></span>
+          </a>
+        </li>
+        
+      </ul>
+  
+      <!-- primary -->
+      <div class="collapse navbar-collapse mx-auto justify-content-center" id="navbar" data-bs-parent="#mainNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="/">
+              Home
+            </a>
+          </li>
+          <li class="nav-item dropdown dropdown-hover">
+            <a class="nav-link" href="/artist">
+              Artist
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">
+              Contact
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+  
+  
+      <!-- mobile user menu -->
+  
+  
+    </div>
+  </nav>
+
+   {{ content }}
+
+  <!-- footer -->
+  {% include footer.html %}
+  <!-- End Footer -->
+  {% include scripts.html %}
+  {% include recaptcha.html %}
+  
+</body>
+</html>
