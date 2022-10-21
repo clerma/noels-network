@@ -1,13 +1,15 @@
 ---
 timezone: America/Chicago
 baseurl: 
-include: ['_pages', '_data','login.html','login']
+include: ['_pages', '_data','login.html','login', '_artist']
 relative_permalinks: false
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
-
+collections:
+  artist:
+    output: true
 defaults:
 -
   scope:
@@ -42,12 +44,6 @@ defaults:
         image: true
         link: true
         embed: true
--
-  scope:
-    type: pages
-    path: _pages/index.html
-  values:
-    permalink: 
 -
   scope:
     type: posts

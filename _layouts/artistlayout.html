@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
  {% include head.html %}
  {% seo %}
@@ -46,12 +45,42 @@
   
     </div>
   </nav>
-  <section class="pb-5 bg-primary">
-   {{ content }}
-   <figure class="background" data-aos="fade-up" data-aos-delay="200">
-     <img class="position-absolute top-100 start-50 translate-middle" src="./assets/images/svg/pattern-lg-light.svg"
-       alt="Image">
-   </figure>
+    <section class="bg-primary inverted pt-15 pb-5">
+  <div class="container foreground mt-lg-2">
+    <div class="row justify-content-center">
+      <div class="col-xl-8 text-center">
+        <h1 class="display-1 noel mb-0">Noel's Network Entertainment</h1>
+        <div class="row justify-content-center pt-0">
+          <div class="col-auto pt-0">
+            <p class="lead">Providing Entertainment Services</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+  <section class="container-fluid bg-primary pt-5 min-vh-75">
+    <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-5">
+          <img src="{{ site.baseurl }}/{{page.image}}" class="img-fluid rounded-circle w-100"/>
+        </div>
+ 
+      <div class="col-md-4 vh-50 align-items-center margin-auto center d-flex">
+        <div class="d-block">
+       <h1 class="text-white noel"> {{page.name}}</h1>
+       <p class="text-white">{{page.genere}}</p>
+        <p class="text-white">
+        {{page.content | strip_html}}
+       </p>
+       <p class="text-white pt-4">
+       <a href="{{page.link}}" class="btn btn-sm btn-outline-white rounded-pill">Find Out More</a>
+       </p>
+        </div>
+      </div>
+  
+    </div>
   </section>
   <!-- footer -->
   {% include footer.html %}
