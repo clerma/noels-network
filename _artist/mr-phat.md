@@ -1,6 +1,6 @@
 ---
 layout: artistlayout
-name: Unlce Luck
+name: Mr. Phat
 genere: DJ and producer
 link: https://mrphat.com/
 image: assets/images/mr-phat.webp
