@@ -3,7 +3,10 @@
 
 <head>
  {% include head.html %}
- {% seo %}
+ {% capture seo %}
+  {% seo %}
+  {% endcapture %}
+   {{seo | remove: "Jekyll"}}
 <body>
   <!-- navbar -->
   <nav id="mainNav" class="navbar navbar-expand-lg mx-auto navbar-sticky navbar-dark bg-dark">
