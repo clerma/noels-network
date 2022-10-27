@@ -21,12 +21,14 @@ permalink: /
           </div>
         </div>
         <div class="row mt-10">
+       {% for event in site.data.homepage-promo %}
           <div class="" data-aos="fade-up" data-aos-delay="100">
-            <figure class="media media-video equal equal-16-9" data-bp='{"ytSrc": "JFm7YDVlqnI"}'>
-              <span style="background-image: url('./assets/images/startup-1.jpg')">
+            <figure class="media media-video equal equal-16-9" data-bp='{"ytSrc": "{{item.video-link"}}'>
+              <span style="background-image: url('{{item.image}}')">
               </span>
             </figure>
           </div>
+       {% endfor %}
         </div>
         <div class="row mt-10">
          <div class="col-md-12 text-center">
