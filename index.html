@@ -1,11 +1,11 @@
 ---
-title: Noel's Network Entertainment
+title: Noel’s Entertainment Network
 description: Providing Entertainment Services
-keywords: 
+keywords:
 layout: default
 permalink: /
 ---
-  <div class="offcanvas-wrap bg-primary">
+<div class="offcanvas-wrap bg-primary">
     <!-- header -->
     <section class="bg-primary inverted pt-15">
       <div class="container d-flex flex-column container level-3 min-vh-100 foreground mt-lg-2">
@@ -16,14 +16,14 @@ permalink: /
         </div>
         <div class="row mt-10">
        {% for item in site.data.homepage-promo %}
-          <div class="" data-aos="fade-up" data-aos-delay="100">
+          <div data-aos="fade-up" data-aos-delay="100">
             {% if item.video-link %}
             <figure class="media media-video equal equal-16-9" data-bp='{"ytSrc": "{{item.video-link}}"}'>
               <span style="background-image: url('{{item.image}}')">
               </span>
             </figure>
             {% else %}<div class="col-6 mx-auto">
-            <img src="{{item.image}}" class="img-fluid mx-auto">
+            <img src="{{item.image}}" class="img-fluid mx-auto" />
             </div>
             {% endif %}
           </div>
