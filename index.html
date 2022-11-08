@@ -28,8 +28,9 @@ permalink: /
               <span style="background-image: url('{{item.image}}')">
               </span>
             </figure>
-            {% else %}
-            <img src="{{item.image}}" class="img-fluid">
+            {% else %}<div class="col-8">
+            <img src="{{item.image}}" class="img-fluid mx-auto">
+            </div>
             {% endif %}
           </div>
        {% endfor %}
