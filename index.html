@@ -23,10 +23,14 @@ permalink: /
         <div class="row mt-10">
        {% for item in site.data.homepage-promo %}
           <div class="" data-aos="fade-up" data-aos-delay="100">
+            {% if item.video-link %}
             <figure class="media media-video equal equal-16-9" data-bp='{"ytSrc": "{{item.video-link}}"}'>
               <span style="background-image: url('{{item.image}}')">
               </span>
             </figure>
+            {% else %}
+            <span style="background-image: url('{{item.image}}')"></span>
+            {% endif %}
           </div>
        {% endfor %}
         </div>
