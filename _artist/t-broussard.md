@@ -4,6 +4,22 @@ name: T. Broussard
 genere: Zydeco Musician
 link: https://www.youtube.com/channel/UCPFamcFXyYGTPc7go8egGqg/playlists
 image: assets/images/t-broussard.webp
-permalink: t-broussard
+permalink: T-broussard
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor consectetur ornare. Nulla eleifend mi at pellentesque pretium. Nulla in molestie magna. Maecenas condimentum nisi ac dignissim vestibulum. Phasellus tortor elit, ornare nec eleifend sed, molestie a turpis. Proin lacinia urna nec ex condimentum, non elementum purus dapibus. Cras mi arcu, cursus vel auctor vel, blandit ac tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus pulvinar nulla magna, ut consectetur nibh congue vel.
+&nbsp;Included in that family trend Bryant Broussard is Queen Ida, the Grammy-winning Zydeco veteran of the West Coast. &nbsp;Bryant recalls childhood memories of playing drums or scrub board while his mother performed for audiences at local dances.&nbsp;
+
+It was not until 1993, at the age of 21, that Bryant began to take his talents seriously and established his own band. Since then he has worked with unwavering ambition to achieve excellence in his destined career. Bryant's stage presence exudes a remarkable energy.&nbsp; &nbsp; He has performed from coast to coast, some performance include the famous Memphis&nbsp; &nbsp; Tennessee Beale Stree Festival, the Sparks, Nevada July 4th Festival, the Alabama Blues Festival and the Southwest Louisiana Zydeco Festival and some of his musical recordings can even be heard as the background music to promotional radio commercials and a Discovery Channel television program. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp; &nbsp;*Accordionist, Singer, & Songwriter*&nbsp; Bryant's musical talents.&nbsp; He also plays drums, scrub board, and bass guitar. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+​
+
+&nbsp;
+
+​
