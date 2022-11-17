@@ -2,7 +2,7 @@
 layout: artistlayout
 name: The Only Cupid
 genere: R&B, Soul, Pop
-link: www.newcupidonline.com
+link: https://newcupidonline.com
 image: /uploads/dsc6109.jpeg
 permalink: cupid
 ---
@@ -28,7 +28,7 @@ New Cupid also supports the boot campaign with his theme song “Do it with Your
 
 Realizing with success comes responsibility; Cupid has proven to be a powerful force through his foundation Positopia (Poz-itopia), a land where negativity doesn’t exist. Through his organization, he mentors youth in schools and churches, organizes a yearly toy drive and participates in breast cancer awareness campaigns. .&nbsp; In spite of his extremely busy schedule Cupid continues to live his dream as a musician know throughout this world but also as an entrepreneur constantly building on his empire.
 
-Cupid hopes the world continues to fall in love with his movement but more importantly he aims to captivate the heart.&nbsp; He is still taking the world by storm with line dances such as the FLEX which is on every cruise ship along with The all time favorite Cupid Shuffle which&nbsp; hit 5X Platinum in November of 2022.. Cupid recently released a tribute to the FREEZE line dance remake of "If You Don't Want Me To'&nbsp;by the legendary Ronnie Milsap.
+Cupid hopes the world continues to fall in love with his movement but more importantly he aims to captivate the heart.&nbsp; He is still taking the world by storm with line dances such as the FLEX which is on every cruise ship along with The all time favorite Cupid Shuffle which&nbsp; hit 5X Platinum in November of 2022.. Cupid recently released a tribute to the FREEZE line dance remake of "If You Don't Want Me To' by the legendary Ronnie Milsap.
 
 &nbsp;
 
