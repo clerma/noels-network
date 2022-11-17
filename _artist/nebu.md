@@ -2,7 +2,7 @@
 layout: artistlayout
 name: Nebu Nezey
 genere: R&B and Soul
-link:
+link: https://youtu.be/nngDpiNQbGc
 image: /uploads/photo1.jpg
 permalink: Nebu
 ---
@@ -26,12 +26,6 @@ Heavily incorporated sounds of NeoSoul, R&B, Bounce and Blues makes Nebula the b
 
 Keep&nbsp;**NEBU**&nbsp;on your radar to see her grace a stage near you soon\!&nbsp;
 
-[https://youtu.be/nngDpiNQbGc](https://youtu.be/nngDpiNQbGc){: target="_blank"}
-
-**News Articles&nbsp;**
-
-[https://www.theadvocate.com/acadiana/multimedia/photos/collection\_4d209712-e315-11e9-864b-8bf73e9b8151.html](https://www.theadvocate.com/acadiana/multimedia/photos/collection_4d209712-e315-11e9-864b-8bf73e9b8151.html){: target="_blank"}
-
-&nbsp;
+​​​​​
 
 &nbsp;
