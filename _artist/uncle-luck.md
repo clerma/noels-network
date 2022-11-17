@@ -6,7 +6,7 @@ link: https://www.facebook.com/OfficialUncleLuck/
 image: assets/images/uncle-luck.webp
 permalink: uncle-luck
 ---
-**<u>BIO</u>**
+&nbsp;
 
 Shawn Bernard, better known as “Luckie” or “Uncle Luck,” was born and raised in Lafayette, Louisiana. He is the youngest of four siblings, one of which is New Cupid, the creator of the song “Cupid Shuffle.”
 
