@@ -6,4 +6,14 @@ link: https://www.ladanethehost.com/
 image: assets/images/ladane.webp
 permalink: ladane-washington
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor consectetur ornare. Nulla eleifend mi at pellentesque pretium. Nulla in molestie magna. Maecenas condimentum nisi ac dignissim vestibulum. Phasellus tortor elit, ornare nec eleifend sed, molestie a turpis. Proin lacinia urna nec ex condimentum, non elementum purus dapibus. Cras mi arcu, cursus vel auctor vel, blandit ac tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus pulvinar nulla magna, ut consectetur nibh congue vel.
+BIO
+
+LaDane The Host was born and raised in Lafayette, LA. His passion for hosting comes from his pure pleasure in putting joy into others. LaDane’s Energetic, Comedic, Witty hosting style can only be described as “One of a Kind”. His hosting journey started with “Mic’d Out Monday” poetry event with Revolution Theory, “The Laugh Gas Comedy Show Series”, “Cupids Karaoke Nights” by World Renowned Recording Artist Cupid, and "Cufest" music festival with a record crowd of 20,000 people.
+
+He is your premier host to make your event something to talk about. ️
+
+&nbsp;
+
+Not just a host, but an Experience\!
+
+&nbsp;
