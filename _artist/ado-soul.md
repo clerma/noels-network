@@ -1,6 +1,6 @@
 ---
 layout: artistlayout
-name: Audi-Yo
+name: ADO Soul
 genere: R&B/ Soul/ Swingout
 link: https://youtu.be/VJjhNFWbW_Y
 image: assets/images/audi.webp
