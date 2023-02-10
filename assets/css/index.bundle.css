@@ -13773,7 +13773,7 @@ figure {
    bottom: 0;
    left: 0;
    background-size: cover;
-   background-position: center;
+   background-position: top;
    cursor: pointer
 }
 .media[class*="-background"] {
