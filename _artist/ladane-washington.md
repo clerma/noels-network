@@ -12,8 +12,4 @@ LaDane The Host was born and raised in Lafayette, LA. His passion for hosting co
 
 He is your premier host to make your event something to talk about. ️
 
-&nbsp;
-
-Not just a host, but an Experience\!
-
-&nbsp;
+Not just a host, but an Experience!
