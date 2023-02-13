@@ -2,7 +2,7 @@
 layout: artistlayout
 name: ADO Soul
 genere: R&B/ Soul/ Swingout
-link:
+link: https://youtu.be/93ceG37rWlY
 image: /uploads/ado-soul.jpg
 permalink: ado-soul
 ---
