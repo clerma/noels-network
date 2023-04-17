@@ -4,6 +4,7 @@ name: Ladane Washington
 genere: Event hosting
 link: https://www.ladanethehost.com/
 image: assets/images/ladane.webp
+image-position: top
 permalink: ladane-washington
 ---
 BIO
@@ -12,8 +13,4 @@ LaDane The Host was born and raised in Lafayette, LA. His passion for hosting co
 
 He is your premier host to make your event something to talk about. ️
 
-&nbsp;
-
-Not just a host, but an Experience\!
-
-&nbsp;
+Not just a host, but an Experience!

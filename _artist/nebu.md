@@ -4,6 +4,7 @@ name: Nebu Nezey
 genere: R&B and Soul
 link: https://youtu.be/nngDpiNQbGc
 image: /uploads/photo1.jpg
+image-position: top
 permalink: Nebu
 ---
 ***Biography***

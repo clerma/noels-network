@@ -4,6 +4,7 @@ name: T. Broussard
 genere: Zydeco Musician
 link: https://www.youtube.com/channel/UCPFamcFXyYGTPc7go8egGqg/playlists
 image: /uploads/img-0496.JPG
+image-position: top
 permalink: T-broussard
 ---
 &nbsp;In the family trend of Bryant Broussard is Queen Ida, the Grammy-winning Zydeco veteran of the West Coast, his mother Mary Jane Ardoin a member of one of the first all women groups to preform French la la she stands alone as a female who mastered the idiom of the traditional Creole accordion, his great uncle Bois Sec Ardoin Creole Musical pioneer and others.&nbsp; Bryant recalls childhood memories of playing drums or scrub board while his mother performed for audiences at local dances.&nbsp;

@@ -1,0 +1,10 @@
+---
+layout: artistlayout
+name: Jarvis Jacobs * the Gents
+genere: R&B/ Soul/ Swingout
+link: https://youtu.be/DmXTQCRo0Bc
+image: /uploads/img-1937.PNG
+image-position: top
+permalink: Jarvis Jacobs
+---
+Effervescent, magnetic charm and charisma are all synonymous descriptions of singer Jarvis Jacob. His hair-raising vocals are malleable enough to encompass several genres of music.<br>The Lake Charles Louisiana native began singing in church at 5 years old and after professionally. In his own words “I do what I do because I love it with a passion. I could never grow tired of the process of creating music and writing songs. It is awesome that I get to connect and touch the hearts of so many people through my music. Be it singing to a small bunch of people or if I am in a huge area in front of thousands I just live and breathe the melody and lyrics of a good song.”<br>Jarvis was musically inspired by everyone from Tank, George Clinton, Luther Vandross, Jamie Foxx, and Zydeco icon Keith Frank. That influence has helped him to publish four albums since 2008 including, “In the Studio,” “Rouge,” “Geaux,” and his latest “2 Geaux Plate.” These four albums have produced radio singles including “Go Girl,” “So Stuck,” and “Calling My Name.” These singles have been featured on radio stations throughout Louisiana and Texas and in major radio markets like Houston, Texas; Dallas, Texas; and Chicago, Illinois.<br>The R&B crooner has opened for an array of R&B and Soul artists including Tank, Ginuwine, Avant, Fantasia, Joe, Carl Thomas, Monica, Lloyd, and Mario. Clearly, he’s learned from opening for these iconic performers because the Jarvis Jacob live concert is absolutely electrifying from start to finish. Currently he along with his band “The Gents,” can be seen every Sunday at The Golden Nugget Casino’s Blue Martini Lounge in Lake Charles, Louisiana.<br>Recently he took a crack at acting starring in the web series “Black Blood” which can be viewed on YouTube.<br>Moving forward, his music goal is to continue to bring people together through the art form of music.
