@@ -1,4 +1,3 @@
----
 timezone: America/Chicago
 baseurl: 
 include: ['_pages', '_data','login.html','login', '_artist']
