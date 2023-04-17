@@ -4,6 +4,7 @@ name: Unlce Luck
 genere: Comedian / Motivational Speaker/Musician
 link: https://www.facebook.com/OfficialUncleLuck/
 image: assets/images/uncle-luck.webp
+image-position: top
 permalink: uncle-luck
 ---
 &nbsp;

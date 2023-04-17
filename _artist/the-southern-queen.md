@@ -4,6 +4,7 @@ name: Quiana Lynell
 genere: Jazz/R&B/ Soul
 link: https://youtu.be/UxptC8_8WDw
 image: /uploads/8052.JPG
+image-position: top
 permalink: Quiana
 ---
 Singer and songwriter Quiana Lynell approaches music with a rare combination of grace and grit. The multi-faceted talent, who works in a variety of genres, is a limitless masterclass personified. Her love for music carries over into all interactions of her life – from singing in clubs or performing huge showcases – to teaching collegiate courses and having a little bit fun of fun on TikTok
