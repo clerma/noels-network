@@ -49,7 +49,15 @@ defaults:
     type: posts
   values:
     layout: bloglayout
-
+    
+_inputs:
+  image-postion:
+    type: select
+    options:
+      values:
+        - top
+        - center
+        - bottom
 
 
 # If you're hosting your site at a Project repository on GitHub pages
