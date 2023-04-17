@@ -1,6 +1,5 @@
 ---
 timezone: America/Chicago
-baseurl: 
 include: ['_pages', '_data','login.html','login', '_artist']
 relative_permalinks: false
 # Your disqus shortname, entering this will enable commenting on posts
@@ -10,7 +9,6 @@ google_analytics:
 collections:
   artist:
     output: true
-
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)

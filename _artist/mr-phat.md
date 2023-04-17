@@ -4,7 +4,7 @@ name: Mr. Phat
 genere: DJ and producer
 link: https://mrphat.com/
 image: assets/images/mr-phat.webp
-image-position: top
+image_position: top
 permalink: mr-phat
 ---
 Brandon “Mr.Phat” Nezey is a Louisiana born record producer, rapper, songwriter, and audio engineer.

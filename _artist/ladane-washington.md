@@ -4,7 +4,7 @@ name: Ladane Washington
 genere: Event hosting
 link: https://www.ladanethehost.com/
 image: assets/images/ladane.webp
-image-position: top
+image_position: top
 permalink: ladane-washington
 ---
 BIO

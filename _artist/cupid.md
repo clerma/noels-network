@@ -4,7 +4,7 @@ name: The Only Cupid
 genere: R&B, Soul, Pop
 link: https://newcupidonline.com
 image: /uploads/dsc6109.jpeg
-image-position: top
+image_position: top
 permalink: cupid
 ---
 Bryson Bernard (AKA) Cupid Biography

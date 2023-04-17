@@ -4,7 +4,7 @@ name: Kendall Pefferkorn/K-Chill
 genere: Comedian
 link:
 image: /uploads/attachment-1.PNG
-image-position: top
+image_position: top
 permalink: K-Chill
 ---
 Born and raised in Opelousas La
